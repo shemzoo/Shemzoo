@@ -18,9 +18,6 @@
 ---
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Shemzoo&count_private=true&hide=prs,issues,contribs&show_icons=true&theme=gruvbox)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.shemzoo.vercel.app/api/spotify)](https://open.spotify.com/user/zzcvfrpq6m8jxlzwfyezfaf6b)
@@ -30,6 +27,5 @@
 [<img align="left" alt="telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br />
-
 
 [telegram]: https://teleg.run/shemzu
