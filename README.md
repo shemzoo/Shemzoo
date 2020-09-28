@@ -20,6 +20,8 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Shemzoo&count_private=true)
+
   <img align="left" alt="Shemzoo's Github Stats" src="https://github-readme-stats.shemzoo.vercel.app/api?username=Shemzoo&show_icons=true&hide_border=true" />
 
 </details>
