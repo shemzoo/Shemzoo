@@ -26,6 +26,8 @@
 
 </details>
 
+### Spotify Playing 🎧
+
 [![Spotify](https://novatorem.shemzoo.vercel.app/api/spotify)](https://open.spotify.com/user/zzcvfrpq6m8jxlzwfyezfaf6b)
 
 ### Contact me:
