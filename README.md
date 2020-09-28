@@ -20,7 +20,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Shemzoo's Github Stats" src="https://github-readme-stats.Shemzoo.vercel.app/api?username=Shemzoo&show_icons=true&hide_border=true" />
+  <img align="left" alt="Shemzoo's Github Stats" src="https://github-readme-stats.shemzoo.vercel.app/api?username=Shemzoo&show_icons=true&hide_border=true" />
 
 </details>
 
