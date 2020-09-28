@@ -20,7 +20,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Shemzoo&count_private=true&hide=stars,prs,issues,contribs&show_icons=true&theme=gruvbox)
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Shemzoo&count_private=true&hide=prs,issues,contribs&show_icons=true&theme=gruvbox)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=gruvbox)
 
