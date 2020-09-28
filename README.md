@@ -26,6 +26,8 @@
 
 </details>
 
+[![Spotify](https://shemzoo.vercel.app/api/spotify)](https://open.spotify.com/user/zzcvfrpq6m8jxlzwfyezfaf6b)
+
 ### Contact me:
 
 [<img align="left" alt="telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
