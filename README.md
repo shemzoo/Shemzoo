@@ -17,7 +17,7 @@
 
 ---
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Shemzoo&count_private=true&hide=prs,issues,contribs&show_icons=true&theme=gruvbox)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Shemzoo&count_private=true&hide=issues,contribs&show_icons=true&theme=gruvbox)
 
 ### Spotify Playing 🎧
 
