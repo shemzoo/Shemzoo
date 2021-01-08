@@ -27,6 +27,9 @@
 
 [<img align="left" alt="telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
+[<img align="left" alt="mail" width="22px" src="https://simpleicons.org/icons/gmail.svg" />][mail]
+
 <br />
 
 [telegram]: https://teleg.run/shemzu
+[mail]: mailto:lvn-gg@yandex.ru
